@@ -8,7 +8,7 @@
 <h1>Previous Projects😁</h1>
 <img src="https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/10/Stop-Animation-Blog-Post-Wave.gif" width="450px" height="300px">
 
-<b>Web Operating Systems</b>
-<a href="http://www.quantumbyteofficial.tech/AirOS">Air OS</a>, <a href="http://www.quantumbyteofficial.tech/Windows-11/">Windows 11</a>
-<b>Face Recognition (Python)</b>
-<b>Vocalgrammer HTML Edition (Python)</b>
+<b>A) Web Operating Systems</b><br>
+<a href="http://www.quantumbyteofficial.tech/AirOS">1. Air OS</a><br><a href="http://www.quantumbyteofficial.tech/Windows-11/">2. Windows 11</a><br>
+<b>B) Face Recognition (Python)</b><br>
+<b>C) Vocalgrammer HTML Edition (Python)</b><br>
