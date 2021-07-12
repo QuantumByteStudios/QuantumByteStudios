@@ -9,8 +9,6 @@
 <div class="row">
 <div class="col-md-6">
 <img class="img-fluid" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif" width="450px" height="300px">
-</div>
-<div class="col-md-6">
 <img class="img-fluid" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="450px" height="300px">  
 </div>
 </div>
