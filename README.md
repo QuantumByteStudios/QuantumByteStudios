@@ -20,4 +20,4 @@
 <a href="http://www.quantumbyteofficial.tech/AirOS">1. Air OS</a><br><a href="http://www.quantumbyteofficial.tech/Windows-11/">2. Windows 11</a><br>
 <b>B) <a href="https://github.com/QuantumByteStudios/SimpleFaceDetectionUsingPython">Face Recognition</a> (Python)</b><br>
 <b>B) <a href="https://github.com/QuantumByteStudios/C-Source-Compiler-Manual-Tool">C Source File Compiler Tool</a> (Python)</b><br>
-<b>C) <a href="https://github.com/QuantumByteStudios/VocalGrammer_HTML_Edition">Vocalgrammer HTML Edition</a> (Python)</b><br>
+<b>C) <a href="https://github.com/QuantumByteStudios/Vocalgrammer_HTML_Edition">Vocalgrammer HTML Edition</a> (Python)</b><br>
