@@ -3,6 +3,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumbytestudios&label=Profile%20views&color=0e75b6&style=flat" alt="quantumbytestudios" /> </p>
 ### Welcome, &lt;YourNAme&gt;😄
 
 <h1>Working on Somethin' really Cool😉</h1>
@@ -23,7 +24,7 @@
 <b>C) <a href="https://github.com/QuantumByteStudios/Vocalgrammer_HTML_Edition">Vocalgrammer HTML Edition</a> (Python)</b><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumbytestudios&label=Profile%20views&color=0e75b6&style=flat" alt="quantumbytestudios" /> </p>
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quantumbytestudios" alt="quantumbytestudios" /></a> </p> -->
 
