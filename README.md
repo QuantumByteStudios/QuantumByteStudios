@@ -5,6 +5,8 @@
 
 ### Welcome, &lt;YourNAme&gt;😄
 
+“Make it work, make it right, make it fast.” – Kent Beck
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumbytestudios&label=Profile%20views&color=0e75b6&style=flat" alt="quantumbytestudios" /> </p>
 
 <h1>Working on Somethin' really Cool😉</h1>
@@ -16,8 +18,6 @@
 </div>
 
 <h1>Previous Projects😁</h1>
-<img src="https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/10/Stop-Animation-Blog-Post-Wave.gif" width="250px" height="150px">
-
 <b>A) Web Operating Systems</b><br>
 <a href="http://www.quantumbyteofficial.tech/AirOS">1. Air OS</a><br><a href="http://www.quantumbyteofficial.tech/Windows-11/">2. Windows 11</a><br>
 <b>B) <a href="https://github.com/QuantumByteStudios/SimpleFaceDetectionUsingPython">Face Recognition</a> (Python)</b><br>
@@ -29,7 +29,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quantumbytestudios" alt="quantumbytestudios" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/harshitraheja7" target="blank"><img src="https://img.shields.io/twitter/follow/harshitraheja7?logo=twitter&style=for-the-badge" alt="harshitraheja7" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/harshitraheja7" target="blank"><img src="https://img.shields.io/twitter/follow/harshitraheja7?logo=twitter&style=for-the-badge" alt="harshitraheja7" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
