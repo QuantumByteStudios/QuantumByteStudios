@@ -5,7 +5,7 @@
 
 ### Welcome, &lt;YourNAme&gt;😄
 
-“Make it work, make it right, make it fast.” – Kent Beck
+<b>“Make it work, make it right, make it fast.” – Kent Beck</b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumbytestudios&label=Profile%20views&color=0e75b6&style=flat" alt="quantumbytestudios" /> </p>
 
