@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumbytestudios&label=Profile%20views&color=0e75b6&style=flat" alt="quantumbytestudios" /> </p>
 
-<a href="https://www.buymeacoffee.com/QuantmByteS"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5c58570cfdd26f0001068f06/0x0.png" alt="BuyMeACoffee" width="125px" height="150px"></a><h1>Working on Somethin' really Cool😉</h1>
+<a href="https://www.buymeacoffee.com/QuantmByteS"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5c58570cfdd26f0001068f06/0x0.png" alt="BuyMeACoffee" width="110px" height="120px"></a><h1>Working on Somethin' really Cool😉</h1>
 <div class="row">
 <div class="col-md-6">
 <!-- <img class="img-fluid" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif" width="450px" height="350px"> -->
