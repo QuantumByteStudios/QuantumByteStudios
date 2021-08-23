@@ -39,6 +39,7 @@
 <a href="https://instagram.com/_harshit_raheja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harshit_raheja_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techeremhizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techeremhizz" height="30" width="40" /></a>
 </p>
+<a href="https://www.youtube.com/techeremhizz"><img src="https://img.shields.io/youtube/channel/subscribers/UC087S2gousERHbdUhLTv0rQ?style=social"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
