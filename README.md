@@ -3,7 +3,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 
-### Welcome, Visitor😄
+### Welcome Visitor😄
 
 <b>“Make it work, make it right, make it fast.” – Kent Beck</b>
 
@@ -26,14 +26,11 @@
 <b>D) <a href="https://github.com/QuantumByteStudios/Vocalgrammer_HTML_Edition">Vocalgrammer HTML Edition</a> (Python)</b><br>
 -->
 
-
-
-
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quantumbytestudios" alt="quantumbytestudios" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/harshitraheja7" target="blank"><img src="https://img.shields.io/twitter/follow/harshitraheja7?logo=twitter&style=for-the-badge" alt="harshitraheja7" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/harshitraheja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitraheja7" height="30" width="40" /></a>
 <a href="https://instagram.com/_harshit_raheja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harshit_raheja_" height="30" width="40" /></a>
